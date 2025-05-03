@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JFS-Project-Library-Catalog-Management-System.iml" filepath="$PROJECT_DIR$/.idea/JFS-Project-Library-Catalog-Management-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project-Library-Catalog-Management-System/Project-Library-Catalog-Management-System.iml" filepath="$PROJECT_DIR$/Project-Library-Catalog-Management-System/Project-Library-Catalog-Management-System.iml" />
     </modules>
   </component>
 </project>
